@@ -6,7 +6,6 @@
  *
  * @array: array to be sorted
  * @size: lenght of the element in array
- *
  * Return: Nothing (void)
  */
 
